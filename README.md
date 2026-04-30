@@ -22,6 +22,14 @@ Classes:
 
 pip install ultralytics
 
+## 🧩 Project Components
+
+| Component   | Description                            | File name         |
+| ----------- | -------------------------------------- | ------------------|
+| Source Code | YOLO-MP training and detection scripts | Source code       |
+| GUI         | Interface for real-time fire detection ||
+
+
 ## 🌍 Applications
 
 * Forest surveillance systems
