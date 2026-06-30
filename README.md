@@ -93,19 +93,19 @@ fire
 ```
 forest-fire-project/
 │
-├── GUI/
+├── backend/                 # Flask backend and model inference
 │
-├── Source code/
+├── frontend/                # React frontend user interface
 │
-├── Models/
+├── sample_dataset/          # Sample dataset for testing
 │
-├── Images/
+├── scratch/                 # Training notebooks and experiments
 │
-├── Videos/
+├── ultralytics/             # Customized YOLO-MP implementation
 │
-├── README.md
+├── Source code.ipynb        # Complete model training notebook
 │
-└── requirements.txt
+└── README.md
 ```
 
 ---
